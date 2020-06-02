@@ -1,5 +1,14 @@
 # BR2
 
+## To begin...
+
+Clone down the repo, then:
+
+```sh
+npm install
+npm run dev
+```
+
 ## Contributors
 
 ### Please fork this repo to your own git repo and make changes there.
